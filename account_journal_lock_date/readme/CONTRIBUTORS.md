@@ -8,3 +8,4 @@
   - Ernesto Tejeda
 - [Factor Libre](https://www.factorlibre.com):
   - Rodrigo Bonilla Martinez \<<rodrigo.bonilla@factorlibre.com>\>
+- `Heliconia Solutions Pvt. Ltd. <https://www.heliconia.io>`_
